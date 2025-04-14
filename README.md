@@ -47,6 +47,8 @@ npm run build
 
 I am attempting to keep a deployed version of this project up-to-date with the latest dependencies and changes in the Next.js ecosystem. You can [view the repository with my latest changes here](https://github.com/gitdagray/comp-repair-shop).
 
+---
+
 ### 📚 References
 - 🔗 [Next.js](https://nextjs.org/)
 - 🔗 [React](https://react.dev/)
