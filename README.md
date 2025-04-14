@@ -28,7 +28,7 @@ In this series, I’ll assume you have an intermediate skill level and are not a
 ## Project Setup
 
 ```sh
-npm install
+npm install --legacy-peer-deps
 ```
 
 ### Compile and Hot-Reload for Development
@@ -42,6 +42,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## After You Have Completed the Lessons
+
+I am attempting to keep a deployed version of this project up-to-date with the latest dependencies and changes in the Next.js ecosystem. You can [view the repository with my latest changes here](https://github.com/gitdagray/comp-repair-shop).
 
 ### 📚 References
 - 🔗 [Next.js](https://nextjs.org/)
