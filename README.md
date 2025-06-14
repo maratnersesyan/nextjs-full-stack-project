@@ -92,3 +92,4 @@ I am attempting to keep a deployed version of this project up-to-date with the l
 ### 🎓 Academic Honesty
 
 **DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+[Next.js Full Stack Project](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PCLz7VMP2QQdeKa83rshe5)
